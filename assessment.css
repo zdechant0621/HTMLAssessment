@@ -51,3 +51,7 @@ blockquote{
 #teamRoster img{
 	display:none;
 }
+
+#checkbox-grid li{
+	list-style-type: none;
+}
